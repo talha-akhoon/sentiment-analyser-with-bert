@@ -1,6 +1,7 @@
 # Sentiment Analysis with BERT
 
 This project uses a pre-trained BERT model to perform sentiment analysis on the IMDB dataset. The model is fine-tuned to classify movie reviews as either positive or negative.
+https://huggingface.co/talha-akhoon/sentiment-analyser
 
 ## Requirements
 
